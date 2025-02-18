@@ -8,3 +8,4 @@ scikit-learn
 pandas
 numpy<2
 scikit-surprise
+gunicorn
